@@ -13,7 +13,7 @@ Projeto criado em HTML5 e conceitos básicos de CSS3 para testar o conhecimento 
 Página inicial de um blog. Projeto criado em HTML5 e conceitos básicos de CSS3.
 
 #### [Site de Notícias](https://github.com/guilhermehiggins/curso-desenvolvimento-web-udemy/tree/master/projeto4%20-%20Site%20de%20noticias)
-Projeto para criação de um site de notícias. Foram criadas as páginas "Home", "Brasil" e "Fotos", além de uma página para a notícia em destaque. Foi criado em HTML5 e conceitos intermediarios de CSS3.
+Projeto para criação de um site de notícias. Foram criadas as páginas "Home", "Brasil" e "Fotos", além de uma página para a notícia em destaque. Foi criado em HTML5 e conceitos intermediários de CSS3.
 
 #### [Chalé Hotel](https://github.com/guilhermehiggins/curso-desenvolvimento-web-udemy/tree/master/projeto5%20-%20Chal%C3%A9%20Hotel)
 Página inicial de um chalé. Desenvolvido em HTML5 e conceitos avançados de CSS3 para testar o conhecimento adquirido em layout líquido.
