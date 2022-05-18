@@ -26,3 +26,6 @@ Página inicial de um site fictício de finanças. Desenvolvido utilizando HTML 
 
 #### [Spotify](https://github.com/guilhermehiggins/curso-desenvolvimento-web-udemy/tree/master/projeto8%20-%20Spotify)
 Página inicial de uma versão antiga da página do Spotify. Desenvolvido utilizando HTML 5, CSS 3 e bootstrap 4.
+
+#### [App Calculadora](https://github.com/guilhermehiggins/curso-desenvolvimento-web-udemy/tree/master/projeto9%20-%20App%20Calculadora)
+Criação de uma calculadora utilizando JavaScript, com seleção e manipulação de elementos HTML a partir da API do DOM.
