@@ -22,4 +22,7 @@ Página inicial de um chalé. Desenvolvido em HTML5 e conceitos avançados de CS
 Página inicial de um Museu. Desenvolvido em HTML5 e conceitos avançados de CSS3. Para este projeto, foi utilizado o Normalize.css.
 
 #### [Finans](https://github.com/guilhermehiggins/curso-desenvolvimento-web-udemy/tree/master/projeto7%20-%20Finans)
-Página inicial de um site fictício de finanças. Criado usando conceitos de bootstrap 4.
+Página inicial de um site fictício de finanças. Desenvolvido utilizando HTML 5, CSS 3 e bootstrap 4.
+
+#### [Spotify](https://github.com/guilhermehiggins/curso-desenvolvimento-web-udemy/tree/master/projeto8%20-%20Spotify)
+Página inicial de uma versão antiga da página do Spotify. Desenvolvido utilizando HTML 5, CSS 3 e bootstrap 4.
